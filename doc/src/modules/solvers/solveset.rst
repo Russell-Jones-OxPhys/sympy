@@ -130,7 +130,7 @@ Also, the predefined set classes such as:
    Represents the set of all complex numbers.
 
 
- * ``EmptySet`` `\phi`
+ * ``EmptySet`` `∅`
 
    Represents the empty set.
 
